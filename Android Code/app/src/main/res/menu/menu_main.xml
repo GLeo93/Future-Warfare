@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activity.UserMenu">
+    <item
+        android:id="@+id/remove"
+        android:orderInCategory="100"
+        android:title="Problems?"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/fblogout"
+        android:orderInCategory="100"
+        android:title="Log Out"
+        app:showAsAction="never" />
+
+</menu>
