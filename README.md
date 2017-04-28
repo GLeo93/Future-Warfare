@@ -169,13 +169,13 @@ Enjoy ;) </br></br>
 
 <b> Developer </b> 
 <p align="center">
-<img src="http://modernwarfareapp.altervista.org/images/Andrea2.png" width="100" heigth="100"/>  
+<img src="http://modernwarfareapp.altervista.org/images/Gianluca.png" width="100" heigth="100"/>  
 </br>
-<b>Andrea Prosseda</b>
+<b>Gianluca Leo</b>
 </p>
-LinkedIn Page: https://www.linkedin.com/in/andrea-prosseda-2b8651116?trk=hp-identity-name
+LinkedIn Page: https://www.linkedin.com/in/gianluca-leo-724032116/
 
-Email: andreaprosseda@gmail.com
+Email: gianluca.leo.19@gmail.com
 
 </br></br>
 <b> University of Rome "La Sapienza" </b> 
